@@ -1,1 +1,1 @@
-console.log(true ? 'verdadeiro' : 'falso')
+console.log((2 + 5) * 10)
