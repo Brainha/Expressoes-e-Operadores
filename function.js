@@ -1,13 +1,17 @@
-let one = 1
-let two = 2
+let x
 
-//console.log(one > two)
 
-//console.log(one >= 1)
-//console.log(two >= 1)
+x = 1
 
-//console.log(one < two)
+x += 2
 
-console.log(one <= two)
-console.log(one <= 1)
-console.log(one <= 0)
+x -= 1
+
+x *= 2
+
+x /= 2
+
+x %= 2
+
+x **= 2
+console.log(x)
